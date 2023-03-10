@@ -1,0 +1,152 @@
+/* body{
+ 
+    background-color: #FFF;
+}
+
+
+h1{
+    font-size: 50px;
+    line-height: 64px;
+    color: #222;
+}
+h2{
+    font-size: 46px;
+    line-height: 54px;
+    color: #222;
+}
+h4{
+    font-size: 20px;
+    color: #222;
+}
+h6{
+    font-size: 12px;
+    font-weight: 700;
+}
+p{
+    font-size: 16px;
+    color: #565b52;
+    margin: 15px 0 20px 0;
+}
+.section-p1{
+    padding: 40px 80px;
+}
+.section-m1{
+    margin: 40px 0px;
+
+}
+button.normal{
+    font-size: 16px;
+
+    font-weight: 600;
+    padding: 15px 30px;
+    cursor: pointer;
+    outline: none;
+    background-color: #fff;
+    border-radius: 4px;
+    border: none;
+    transition: 0.2s ease;
+
+}
+body{
+    max-width: 100%;
+    
+}
+
+/* header*/
+ /* #header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: auto;
+    padding: 20px 50px;
+    background: #E4E6F4;
+    box-shadow: 0  5px 15px rgba(0,0,0,0.06);
+    padding: 20px 80px;
+    z-index: 999;
+    position: sticky;
+    top: 0;
+    left: 0;
+ }
+ #navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ #navbar li{
+    padding: 0px  20px;
+    align-items: center;
+    list-style: none;
+    position: relative;
+ }
+  #navbar li a{
+    text-decoration: none;
+    color: #1a1a1a;
+    font-size: 16px;
+    font-weight: 600;
+    transition: 0.5s ease;
+ }
+ #navbar li a:hover,
+ #navbar li a.home{
+    color:#088178;
+ }
+ #navbar li a:hover::after, 
+ #navbar li a.home::after {
+     content: "";
+     width: 30%;
+     height: 2px;
+     position: absolute;
+    background:#088178;
+    bottom: -4px;
+    left: 20px;
+ }
+ #product1 .pro  .cart:hover{
+    box-shadow: rgba(0,0,0,0.09);
+    background-color: #464646;
+}
+.cart2{
+    color: rgb(0, 0, 0);
+    border: 3px solid #ffffff;
+    border-radius: 35px;
+
+    font-weight: 900;
+    transition: 0.2s ease;
+    font-size: 25px;
+    position: relative;
+
+} */ 
+.up-form{
+    color: #fff;
+}
+
+.form{
+    font-size: 400%;
+    background-color: aliceblue;
+    color: aqua;
+    padding-left: 15%;
+}
+
+
+
+.form .input{
+    font-size: 50% ;
+    display: flex;
+
+
+
+
+    margin: bottom 1%; ;
+
+    border-radius: 5%;
+
+
+
+
+}
+.form #desc{
+    font-size: 50%;
+    margin-right:0% ;
+}
+.form{
+    text-decoration: none;
+
+}
